@@ -21,6 +21,8 @@
 // CAMARA
 // ======================================================
 
+//mensaje nuevo
+
 glm::vec3 cameraPos(0.0f, 3.0f, 12.0f);
 glm::vec3 cameraFront(0.0f, 0.0f, -1.0f);
 glm::vec3 cameraUp(0.0f, 1.0f, 0.0f);
